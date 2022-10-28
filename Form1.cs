@@ -23,7 +23,7 @@ namespace BancoAlura
        
             this.c = new Conta();
             c.Numero = 1;
-            Cliente cliente = new Cliente("Victor");
+            Cliente cliente = new Cliente("Alesandro");
             c.Titular = cliente;
 
         }
